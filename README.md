@@ -5,7 +5,7 @@ Computer science student
 ------------------------
 
 * 🌍  I'm based in France
-* 🚀  I'm currently working on [my side project Gift Harbor](http://https://christmas-gift-list-two.vercel.app/)
+* 🚀  I'm currently working on my side project [Gift Harbor](https://giftharbor-gaspardbby.vercel.app/) in NextJS 13 & Supabase
 * 🧠  I'm learning React Native, NextJS, FastifyJS..
 
 ### Skills
