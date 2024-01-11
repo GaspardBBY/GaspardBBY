@@ -5,7 +5,7 @@ Computer science student
 ------------------------
 
 * 🌍  I'm based in France
-* 🚀  I'm currently working on my side project [Gift Harbor](https://giftharbor-gaspardbby.vercel.app/) in NextJS 13 & Supabase
+* 🚀  I'm currently working on my side project [Gift Harbor](https://giftharbor-gaspardbby.vercel.app/) with the bestfull stack => NextJS 13 w/Typescript & Supabase. In addition, I spend my January days on a group class project: datsmysong. I love JS so what's better than the stack React-Native (Expo & Typescript of course) and Supabase. 
 * 🧠  I'm learning React Native, NextJS, FastifyJS..
 
 ### Skills
