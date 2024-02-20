@@ -22,8 +22,7 @@ Computer science student
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats of public projects</b>
 
-<a href="http://www.github.com/GaspardBBY"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GaspardBBY&bg_color=312e81&color=facc15&line=000000&point=facc15&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/GaspardBBY" align="left"><img src="https://github-readme-stats.vercel.app/api?username=gaspardbby&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage](https://github-readme-stats.vercel.app/api?username=gaspardbby&show_icons=true&theme=radical&hide=stars" alt="Top Languages" /></a>
 
-<a href="https://github.com/GaspardBBY" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaspardBBY&langs_count=10&title_color=ffffff&text_color=facc15&icon_color=000000&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
